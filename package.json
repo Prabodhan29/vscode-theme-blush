@@ -1,0 +1,41 @@
+{
+    "name": "blush",
+    "displayName": "Blush",
+    "description": "A dark theme with bright colors",
+    "version": "1.0.0",
+    "icon": "images/icon_final.png",
+    "publisher": "Prabodhan",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Prabodhan29/vscode-theme-blush"
+    },
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "author": {
+        "name": "Prabodhan Sonawane"
+    },
+    "license": "MIT",
+    "homepage": "",
+    "keywords": [
+        "theme",
+        "dark theme",
+        "darktheme",
+        "pink",
+        "pink theme",
+        "pinktheme",
+        "prabodhan"
+    ],
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Blush",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Blush-color-theme.json"
+            }
+        ]
+    }
+}
