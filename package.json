@@ -7,7 +7,7 @@
     "publisher": "Prabodhan",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Prabodhan29/vscode-theme-blush"
+        "url": "https://github.com/Prabodhan29/vscode-theme-blush" 
     },
     "engines": {
         "vscode": "^1.0.0"
@@ -39,3 +39,6 @@
         ]
     }
 }
+
+
+
