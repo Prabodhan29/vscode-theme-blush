@@ -32,10 +32,10 @@ Type theme, choose Preferences: Color Theme, and select Blush theme.
 ## Screenshots
 
 **JavaScript**
-![JS Screenshot](https://github.com/Prabodhan29/vscode-theme-blush/blob/main/images/js.png)
+![JS Screenshot](https://github.com/Prabodhan29/vscode-theme-blush/blob/main/images/js.png?raw=true)
 
 **CSS**
-![CSS Screenshot](https://github.com/Prabodhan29/vscode-theme-blush/blob/main/images/css.png)
+![CSS Screenshot](https://github.com/Prabodhan29/vscode-theme-blush/blob/main/images/css.png?raw=true)
 
   
 
