@@ -19,7 +19,7 @@ Paste the following command and press Enter:
 ```
   ext install blush
 ```
-**Activate theme**
+#### **Activate theme**
 
 Launch _Quick Open_:
 
@@ -29,15 +29,17 @@ Launch _Quick Open_:
 
 Type theme, choose Preferences: Color Theme, and select Blush theme.
 
-## Screenshots
+## **Screenshots**
 
-**JavaScript**
+#### **JavaScript**
 ![JS Screenshot](https://github.com/Prabodhan29/vscode-theme-blush/blob/main/images/js.png?raw=true)
 
-**CSS**
+#### **HTML**
+![HTML Screenshot](https://github.com/Prabodhan29/vscode-theme-blush/blob/main/images/html.png?raw=true)
+  
+#### **CSS**
 ![CSS Screenshot](https://github.com/Prabodhan29/vscode-theme-blush/blob/main/images/css.png?raw=true)
 
-  
 
 ## Contributing
 
