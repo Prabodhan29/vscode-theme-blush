@@ -41,11 +41,9 @@ Type theme, choose Preferences: Color Theme, and select Blush theme.
 ![CSS Screenshot](https://github.com/Prabodhan29/vscode-theme-blush/blob/main/images/css.png?raw=true)
 
 
-## Contributing
+## **Feedback/Issues**
+Are you enjoying the Blush Theme? Don't hesitate to share your excitement. Also let me know if you run into bugs or have any other feedback by creating a Github issue.
 
-Contributions are always welcome!
-
-You can share your ideas down below -
 
 ### https://github.com/Prabodhan29/vscode-theme-blush
 
